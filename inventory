@@ -2,4 +2,4 @@
 192.168.56.108 apache_package=apache2 php_package=libapache2-mod-php
 
 [CentOS]
-192.168.56.110 ansible_user=azamora apache_package=httpd php_package=php
+192.168.56.110 ansible_user=azamora_admin apache_package=httpd php_package=php
